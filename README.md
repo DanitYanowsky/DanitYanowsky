@@ -17,7 +17,7 @@
 
 ---
 
-I'm a graduate researcher at HUJI's [Weinshall Lab](https://www.cs.huji.ac.il/~daphna/), working on deep learning for visual perception. My work spans continual learning, 3D scene understanding, and controllable generation. Previously, I spent two years as an ML Ops engineer at Applied Materials, bridging research and production systems.
+I'm a graduate researcher at HUJI's [Weinshall Lab](https://www.cs.huji.ac.il/~daphna/) ,working on continual learning for image models - specifically on reducing catastrophic forgetting through smarter replay buffer strategies. I also specialize in 3D vision and controllable generative models.
 
 ---
 
