@@ -25,7 +25,7 @@ I'm a graduate researcher at HUJI's [Weinshall Lab](https://www.cs.huji.ac.il/~d
 
 **Leveraging Complementary Embeddings for Replay Selection in Continual Learning with Small Buffers**
 
-Proposes **MERS** — a replay selection method that combines supervised and self-supervised embeddings (SimCLR, VICReg, DINO) to maximize buffer diversity under tight memory constraints. Formulated as weighted maximum coverage with greedy approximation guarantees.  
+Proposes **MERS** - a replay selection method that combines supervised and self-supervised embeddings (SimCLR, VICReg, DINO) to maximize buffer diversity under tight memory constraints. Formulated as weighted maximum coverage with greedy approximation guarantees.  
 Improves over strong baselines on CIFAR-100 benchmarks: **+1.28 pp** at 100-sample buffers, **+1.49 pp** at 300 samples.
 
 [![Code](https://img.shields.io/badge/Code-MERS-black?style=flat-square&logo=github)](https://github.com/DanitYanowsky/MERS)
